@@ -19,7 +19,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: lily58_left
   - board: esp32c3_devkitm
-    shield: ivan
+    shield: two_percent_milk
