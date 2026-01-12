@@ -20,4 +20,4 @@
 ---
 include:
   - board: esp32c3_devkitm
-    shield: two_percent_milk
+    shield: ivan
